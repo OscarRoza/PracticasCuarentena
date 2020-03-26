@@ -146,3 +146,188 @@ java.lang.NullPointerException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:132)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:18.024
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hhjDhKfC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:18.031
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hhjDhKfC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:18.037
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:18.043
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hhjDhKfC => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:30.220
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:30.226
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@136f3e28[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=1004)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:30.234
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.175
+!MESSAGE Boot LS startup time from start to initialized: 1933ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.216
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fkyHxNZeisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.251
+!MESSAGE subscribing to classpath changes: sts4.classpath.fkyHxNZe isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.260
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.282
+!MESSAGE subsribers = {sts4.classpath.fkyHxNZe=Send Classpath Notifications(1695)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.297
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.304
+!MESSAGE project AlumnosSpring ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.311
+!MESSAGE Preparing classpath changed notification AlumnosSpring
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.323
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.334
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.341
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.352
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.358
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.370
+!MESSAGE buffering callback sts4.classpath.fkyHxNZe AlumnosSpring false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.380
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fkyHxNZe => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.388
+!MESSAGE executing callback sts4.classpath.fkyHxNZe 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:22:32.433
+!MESSAGE executing callback sts4.classpath.fkyHxNZe SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:27:03.575
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fkyHxNZe
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:27:03.582
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.fkyHxNZe
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:27:03.591
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:27:03.602
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fkyHxNZe => OK
+!SESSION 2020-03-26 19:27:41.926 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-03-26 19:27:50.409
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-03-26 19:27:50.410
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f7f9d3f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62966c9f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:01.545
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:01.553
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@346e62d7[org.springframework.tooling.boot.ls:1.15.0.202001210741(id=1004)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:01.560
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:01.606
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-26 19:28:03.467
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sjnn3'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2020-03-26 19:28:06.800
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:07.405
+!MESSAGE Boot LS startup time from start to initialized: 5829ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:07.519
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.AKwEZlSpisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.183
+!MESSAGE subscribing to classpath changes: sts4.classpath.AKwEZlSp isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.192
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.215
+!MESSAGE subsribers = {sts4.classpath.AKwEZlSp=Send Classpath Notifications(104)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.228
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.235
+!MESSAGE project AlumnosSpring ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.242
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.267
+!MESSAGE Preparing classpath changed notification AlumnosSpring
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.277
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.288
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.310
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.335
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.355
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.AKwEZlSp => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.373
+!MESSAGE buffering callback sts4.classpath.AKwEZlSp AlumnosSpring false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.408
+!MESSAGE executing callback sts4.classpath.AKwEZlSp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-26 19:28:08.497
+!MESSAGE executing callback sts4.classpath.AKwEZlSp SUCCESS [done]
