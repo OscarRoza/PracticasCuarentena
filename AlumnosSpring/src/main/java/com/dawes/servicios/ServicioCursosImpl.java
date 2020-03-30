@@ -2,7 +2,6 @@ package com.dawes.servicios;
 
 import java.util.Optional;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.dawes.modelo.CursosVO;
@@ -11,7 +10,6 @@ import com.dawes.repositorios.CursosRepository;
 @Service
 public class ServicioCursosImpl implements ServicioCursos {
 
-	@Autowired
 	CursosRepository CR;
 
 	@Override

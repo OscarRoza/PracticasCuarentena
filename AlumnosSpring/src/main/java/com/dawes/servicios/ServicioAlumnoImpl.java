@@ -4,7 +4,6 @@ import java.time.LocalDate;
 import java.util.List;
 import java.util.Optional;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.dawes.modelo.AlumnoVO;
@@ -13,12 +12,12 @@ import com.dawes.repositorios.AlumnoRepository;
 @Service
 public class ServicioAlumnoImpl implements ServicioAlumno {
 
-	@Autowired
+	
 	AlumnoRepository AR;
 
 	@Override
-	public AlumnoVO BuscarPorNombre(String nombre) {
-		return AR.BuscarPorNombre(nombre);
+	public AlumnoVO findByNombre(String nombre) {
+		return AR.findByNombre(nombre);
 	}
 
 	@Override
@@ -80,5 +79,6 @@ public class ServicioAlumnoImpl implements ServicioAlumno {
 	public void deleteAll() {
 		AR.deleteAll();
 	}
+	
 
 }

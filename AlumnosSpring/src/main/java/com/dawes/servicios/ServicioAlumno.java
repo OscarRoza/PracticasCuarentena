@@ -8,7 +8,7 @@ import com.dawes.modelo.AlumnoVO;
 
 public interface ServicioAlumno {
 
-	AlumnoVO BuscarPorNombre(String nombre);
+	AlumnoVO findByNombre(String nombre);
 
 	List<AlumnoVO> findAllByCursosFechaBetween(LocalDate inicio, LocalDate fin);
 
