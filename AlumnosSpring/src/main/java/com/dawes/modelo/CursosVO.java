@@ -16,8 +16,8 @@ public class CursosVO {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private int idCurso;
-	private String nombreCurso;
+	private int idcurso;
+	private String nombrecurso;
 	@OneToMany(mappedBy = "curso", fetch = FetchType.EAGER)
 	private List<AlumnoCursoVO> alumnos;
 
@@ -25,33 +25,33 @@ public class CursosVO {
 		super();
 	}
 
-	public CursosVO(int idCurso, String nombreCurso, List<AlumnoCursoVO> alumnos) {
+	public CursosVO(int idcurso, String nombrecurso, List<AlumnoCursoVO> alumnos) {
 		super();
-		this.idCurso = idCurso;
-		this.nombreCurso = nombreCurso;
+		this.idcurso = idcurso;
+		this.nombrecurso = nombrecurso;
 		this.alumnos = alumnos;
 	}
 
-	public CursosVO(String nombreCurso, List<AlumnoCursoVO> alumnos) {
+	public CursosVO(String nombrecurso, List<AlumnoCursoVO> alumnos) {
 		super();
-		this.nombreCurso = nombreCurso;
+		this.nombrecurso = nombrecurso;
 		this.alumnos = alumnos;
 	}
 
-	public int getIdCurso() {
-		return idCurso;
+	public int getidcurso() {
+		return idcurso;
 	}
 
-	public void setIdCurso(int idCurso) {
-		this.idCurso = idCurso;
+	public void setidcurso(int idcurso) {
+		this.idcurso = idcurso;
 	}
 
-	public String getNombreCurso() {
-		return nombreCurso;
+	public String getnombrecurso() {
+		return nombrecurso;
 	}
 
-	public void setNombreCurso(String nombreCurso) {
-		this.nombreCurso = nombreCurso;
+	public void setnombrecurso(String nombrecurso) {
+		this.nombrecurso = nombrecurso;
 	}
 
 	public List<AlumnoCursoVO> getAlumnos() {
@@ -67,8 +67,8 @@ public class CursosVO {
 		final int prime = 31;
 		int result = 1;
 		result = prime * result + ((alumnos == null) ? 0 : alumnos.hashCode());
-		result = prime * result + idCurso;
-		result = prime * result + ((nombreCurso == null) ? 0 : nombreCurso.hashCode());
+		result = prime * result + idcurso;
+		result = prime * result + ((nombrecurso == null) ? 0 : nombrecurso.hashCode());
 		return result;
 	}
 
@@ -86,19 +86,19 @@ public class CursosVO {
 				return false;
 		} else if (!alumnos.equals(other.alumnos))
 			return false;
-		if (idCurso != other.idCurso)
+		if (idcurso != other.idcurso)
 			return false;
-		if (nombreCurso == null) {
-			if (other.nombreCurso != null)
+		if (nombrecurso == null) {
+			if (other.nombrecurso != null)
 				return false;
-		} else if (!nombreCurso.equals(other.nombreCurso))
+		} else if (!nombrecurso.equals(other.nombrecurso))
 			return false;
 		return true;
 	}
 
 	@Override
 	public String toString() {
-		return "CursosVO [idCurso=" + idCurso + ", nombreCurso=" + nombreCurso + ", alumnos=" + alumnos + "]";
+		return "CursosVO [idcurso=" + idcurso + ", nombrecurso=" + nombrecurso + ", alumnos=" + alumnos + "]";
 	}
 
 }

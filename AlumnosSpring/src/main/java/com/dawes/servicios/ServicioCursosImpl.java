@@ -13,8 +13,8 @@ public class ServicioCursosImpl   {
 	@Autowired
 	CursosRepository CR;
 
-	public CursosVO findBynombreCurso(String nombreCurso) {
-		return CR.findBynombreCurso(nombreCurso);
+	public CursosVO findByNombrecurso(String nombreCurso) {
+		return CR.findByNombrecurso(nombreCurso);
 	}
 
 	public <S extends CursosVO> S save(S entity) {

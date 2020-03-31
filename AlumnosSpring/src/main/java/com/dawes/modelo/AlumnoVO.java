@@ -17,14 +17,14 @@ public class AlumnoVO {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private int idAlumno;
+	private int idalumno;
 	private String nombre;
 	@OneToMany(mappedBy = "alumno", fetch = FetchType.EAGER, cascade = { CascadeType.ALL }, orphanRemoval = true)
 	private List<AlumnoCursoVO> cursos;
 
-	public AlumnoVO(int idAlumno, String nombre, List<AlumnoCursoVO> cursos) {
+	public AlumnoVO(int idalumno, String nombre, List<AlumnoCursoVO> cursos) {
 		super();
-		this.idAlumno = idAlumno;
+		this.idalumno = idalumno;
 		this.nombre = nombre;
 		this.cursos = cursos;
 	}
@@ -39,12 +39,12 @@ public class AlumnoVO {
 		super();
 	}
 
-	public int getIdAlumno() {
-		return idAlumno;
+	public int getidalumno() {
+		return idalumno;
 	}
 
-	public void setIdAlumno(int idAlumno) {
-		this.idAlumno = idAlumno;
+	public void setidalumno(int idalumno) {
+		this.idalumno = idalumno;
 	}
 
 	public String getNombre() {
@@ -68,7 +68,7 @@ public class AlumnoVO {
 		final int prime = 31;
 		int result = 1;
 		result = prime * result + ((cursos == null) ? 0 : cursos.hashCode());
-		result = prime * result + idAlumno;
+		result = prime * result + idalumno;
 		result = prime * result + ((nombre == null) ? 0 : nombre.hashCode());
 		return result;
 	}
@@ -87,7 +87,7 @@ public class AlumnoVO {
 				return false;
 		} else if (!cursos.equals(other.cursos))
 			return false;
-		if (idAlumno != other.idAlumno)
+		if (idalumno != other.idalumno)
 			return false;
 		if (nombre == null) {
 			if (other.nombre != null)
@@ -99,7 +99,7 @@ public class AlumnoVO {
 
 	@Override
 	public String toString() {
-		return "AlumnoVO [idAlumno=" + idAlumno + ", nombre=" + nombre + ", cursos=" + cursos + "]";
+		return "AlumnoVO [idalumno=" + idalumno + ", nombre=" + nombre + ", cursos=" + cursos + "]";
 	}
 
 }

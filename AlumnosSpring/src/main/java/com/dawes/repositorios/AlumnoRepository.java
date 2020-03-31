@@ -14,6 +14,5 @@ public interface AlumnoRepository extends CrudRepository<AlumnoVO, Integer> {
 
 	AlumnoVO findByNombre(String nombre);
 	
-	List<AlumnoVO> findAllByCursosFechaBetween(LocalDate inicio, LocalDate fin);
 
 }

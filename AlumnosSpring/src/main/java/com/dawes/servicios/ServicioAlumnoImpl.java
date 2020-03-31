@@ -11,17 +11,13 @@ import com.dawes.modelo.AlumnoVO;
 import com.dawes.repositorios.AlumnoRepository;
 
 @Service
-public class ServicioAlumnoImpl   {
+public class ServicioAlumnoImpl {
 
 	@Autowired
 	AlumnoRepository AR;
 
 	public AlumnoVO findByNombre(String nombre) {
 		return AR.findByNombre(nombre);
-	}
-
-	public List<AlumnoVO> findAllByCursosFechaBetween(LocalDate inicio, LocalDate fin) {
-		return AR.findAllByCursosFechaBetween(inicio, fin);
 	}
 
 	public <S extends AlumnoVO> S save(S entity) {
@@ -67,7 +63,5 @@ public class ServicioAlumnoImpl   {
 	public void deleteAll() {
 		AR.deleteAll();
 	}
-
-	
 
 }

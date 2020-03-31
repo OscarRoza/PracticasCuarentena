@@ -7,6 +7,6 @@ import com.dawes.modelo.CursosVO;
 
 @Repository
 public interface CursosRepository extends CrudRepository<CursosVO, Integer> {
-	public CursosVO findBynombreCurso(String nombreCurso);
+	public CursosVO findByNombrecurso(String nombreCurso);
 
 }

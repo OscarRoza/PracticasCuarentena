@@ -20,11 +20,11 @@ public class AlumnoCursoVO {
 	private LocalDate fecha;
 
 	@ManyToOne
-	@JoinColumn(name = "id_alumno")
+	@JoinColumn(name = "idalumno")
 	private AlumnoVO alumno;
 
 	@ManyToOne
-	@JoinColumn(name = "id_curso")
+	@JoinColumn(name = "idcurso")
 	private CursosVO curso;
 
 	public AlumnoCursoVO(int idalumnocurso, LocalDate fecha, AlumnoVO alumno, CursosVO curso) {

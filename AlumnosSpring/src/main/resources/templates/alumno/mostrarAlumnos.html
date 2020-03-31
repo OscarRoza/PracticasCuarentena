@@ -15,11 +15,11 @@
 		</tr>
 		<tr th:each="alumno: ${listaAlumno}">
 			<td th:text="${alumno.nombre}" />
-			<td><a th:href="@{eliminaAlumno(idAlumno=${alumno.idAlumno})}">
+			<td><a th:href="@{eliminaAlumno(idalumno=${alumno.idalumno})}">
 					Eliminar </a> <a
-				th:href="@{modificaAlumno(idAlumno=${alumno.idAlumno})}">
+				th:href="@{modificaAlumno(idalumno=${alumno.idalumno})}">
 					Modificar </a> <a
-				th:href="@{verMatricula(idAlumno=${alumno.idAlumno})}"> Ver
+				th:href="@{verMatricula(idalumno=${alumno.idalumno})}"> Ver
 					Cursos </a></td>
 		</tr>
 	</table>
