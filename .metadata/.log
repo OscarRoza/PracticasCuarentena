@@ -2308,3 +2308,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-31 19:10:41.099
 !MESSAGE executing callback sts4.classpath.BYYSPTQY SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2020-03-31 19:14:36.970
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

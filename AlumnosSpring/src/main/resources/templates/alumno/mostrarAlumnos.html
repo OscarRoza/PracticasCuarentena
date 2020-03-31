@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+	<h1>Alumnos</h1>
+	<table>
+		<tr>
+			<th>Nombre</th>
+			<th>Acción</th>
+		</tr>
+		<tr th:each="alumno: ${listaAlumno}">
+			<td th:text="${alumno.nombre}" />
+			<td><a th:href="@{eliminaAlumno(idAlumno=${alumno.idAlumno})}">
+					Eliminar </a> <a
+				th:href="@{modificaAlumno(idAlumno=${alumno.idAlumno})}">
+					Modificar </a> <a
+				th:href="@{verMatricula(idAlumno=${alumno.idAlumno})}"> Ver
+					Cursos </a></td>
+		</tr>
+	</table>
+	<a th:href="@{/alumno/formInsertaAlumno}"> Inserta alumno </a>
+	<p>
+		<a th:href="@{/index}"> Volver </a>
+</body>
+</html>

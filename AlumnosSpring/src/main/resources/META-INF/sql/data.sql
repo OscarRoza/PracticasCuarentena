@@ -1,5 +1,5 @@
 insert into alumno (nombre) values ("Oscar");
-insert into alumno (nombre) values ("Alonso");
+insert into alumno (nombre) values ("Jaime");
 insert into alumno (nombre) values ("Salgado");
 insert into alumno (nombre) values ("Javier");
 insert into alumno (nombre) values ("Nina");
