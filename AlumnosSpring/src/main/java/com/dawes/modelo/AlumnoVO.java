@@ -1,5 +1,6 @@
 package com.dawes.modelo;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.CascadeType;
@@ -26,17 +27,17 @@ public class AlumnoVO {
 		super();
 		this.idalumno = idalumno;
 		this.nombre = nombre;
-		this.cursos = cursos;
-	}
+		this.cursos = new ArrayList();	}
 
 	public AlumnoVO(String nombre, List<AlumnoCursoVO> cursos) {
 		super();
 		this.nombre = nombre;
-		this.cursos = cursos;
+		this.cursos = new ArrayList();
+
 	}
 
 	public AlumnoVO() {
-		super();
+		cursos = new ArrayList();
 	}
 
 	public int getIdalumno() {

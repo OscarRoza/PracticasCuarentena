@@ -1,5 +1,6 @@
 package com.dawes.modelo;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.Entity;
@@ -22,21 +23,23 @@ public class CursosVO {
 	private List<AlumnoCursoVO> alumnos;
 
 	public CursosVO() {
-		super();
+		alumnos = new ArrayList();
 	}
 
 	public CursosVO(int idcurso, String nombrecurso, List<AlumnoCursoVO> alumnos) {
 		super();
 		this.idcurso = idcurso;
 		this.nombrecurso = nombrecurso;
-		this.alumnos = alumnos;
+		this.alumnos = new ArrayList();
 	}
 
 	public CursosVO(String nombrecurso, List<AlumnoCursoVO> alumnos) {
 		super();
 		this.nombrecurso = nombrecurso;
-		this.alumnos = alumnos;
+		this.alumnos = new ArrayList();
 	}
+
+	
 
 	public int getIdcurso() {
 		return idcurso;
