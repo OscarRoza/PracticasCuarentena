@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.dawes.modelo.AlumnoVO;
 import com.dawes.servicios.ServicioAlumnoImpl;
-import com.fasterxml.jackson.annotation.JsonCreator.Mode;
 
 @Controller
 @RequestMapping("/controladorAlumno")
@@ -38,9 +37,23 @@ public class AlumnoController {
 
 	}
 
+	@RequestMapping("/modificarAlumno")
+	public String modificarAlumno(@RequestParam int idalumno, Model modelo) {
+		modelo.addAttribute("alumno", sa.findById(idalumno).get());
+		return "/alumno/modificacion";
+
+	}
+
+	@RequestMapping("/modificado")
+	public String modificado(@ModelAttribute AlumnoVO modificacion, Model modelo) {
+		sa.save(modificacion);
+		modelo.addAttribute("listaAlumno", sa.findAll());
+		return "alumno/mostrarAlumnos";
+	}
+
 	@RequestMapping("/eliminarAlumno")
-	public String eliminarAlumno(@RequestParam int id, Model modelo) {
-		sa.deleteById(id);
+	public String eliminarAlumno(@RequestParam int idalumno, Model modelo) {
+		sa.deleteById(idalumno);
 		modelo.addAttribute("listaAlumno", sa.findAll());
 		return "/alumno/mostrarAlumnos";
 	}
