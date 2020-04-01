@@ -15,15 +15,15 @@
 		</tr>
 		<tr th:each="alumno: ${listaAlumno}">
 			<td th:text="${alumno.nombre}" />
-			<td><a th:href="@{eliminaAlumno(idalumno=${alumno.idalumno})}">
+		<!-- 	<td><a th:href="@{eliminaAlumno(idalumno=${alumno.idalumno})}">
 					Eliminar </a> <a
 				th:href="@{modificaAlumno(idalumno=${alumno.idalumno})}">
 					Modificar </a> <a
 				th:href="@{verMatricula(idalumno=${alumno.idalumno})}"> Ver
-					Cursos </a></td>
+					Cursos </a></td> -->
 		</tr>
 	</table>
-	<a th:href="@{/alumno/formInsertaAlumno}"> Inserta alumno </a>
+	<a th:href="@{/controladorAlumno/insertarAlumno}"> Insertar alumno </a>
 	<p>
 		<a th:href="@{/index}"> Volver </a>
 </body>
