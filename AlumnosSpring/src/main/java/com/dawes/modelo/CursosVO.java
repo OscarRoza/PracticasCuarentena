@@ -38,19 +38,19 @@ public class CursosVO {
 		this.alumnos = alumnos;
 	}
 
-	public int getidcurso() {
+	public int getIdcurso() {
 		return idcurso;
 	}
 
-	public void setidcurso(int idcurso) {
+	public void setIdcurso(int idcurso) {
 		this.idcurso = idcurso;
 	}
 
-	public String getnombrecurso() {
+	public String getNombrecurso() {
 		return nombrecurso;
 	}
 
-	public void setnombrecurso(String nombrecurso) {
+	public void setNombrecurso(String nombrecurso) {
 		this.nombrecurso = nombrecurso;
 	}
 

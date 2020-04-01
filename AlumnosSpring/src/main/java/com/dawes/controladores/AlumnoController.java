@@ -5,6 +5,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import com.dawes.modelo.AlumnoVO;
 import com.dawes.servicios.ServicioAlumnoImpl;
@@ -35,5 +36,12 @@ public class AlumnoController {
 		modelo.addAttribute("listaAlumno", sa.findAll());
 		return "/alumno/mostrarAlumnos";
 
+	}
+
+	@RequestMapping("/eliminarAlumno")
+	public String eliminarAlumno(@RequestParam int id, Model modelo) {
+		sa.deleteById(id);
+		modelo.addAttribute("listaAlumno", sa.findAll());
+		return "/alumno/mostrarAlumnos";
 	}
 }

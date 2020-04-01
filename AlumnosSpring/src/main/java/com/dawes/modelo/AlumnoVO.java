@@ -39,11 +39,11 @@ public class AlumnoVO {
 		super();
 	}
 
-	public int getidalumno() {
+	public int getIdalumno() {
 		return idalumno;
 	}
 
-	public void setidalumno(int idalumno) {
+	public void setIdalumno(int idalumno) {
 		this.idalumno = idalumno;
 	}
 
