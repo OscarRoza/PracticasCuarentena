@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Modificar Curso</title>
+</head>
+<body>
+	<form th:object="${curso}" action="/controladorCursos/cursomodificado"
+		method="POST">
+		<p>
+			Nombre: <input type="text" th:field="*{nombrecurso}"
+				th:value="${curso.nombrecurso}" required />
+		</p>
+		<input type="hidden" th:field="*{idcurso}" th:value="${curso.idcurso}" />
+
+		<p>
+			<input type="submit" value="Modificar" />
+		</p>
+	</form>
+</body>
+</html>

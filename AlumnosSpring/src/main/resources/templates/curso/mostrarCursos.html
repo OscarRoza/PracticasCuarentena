@@ -10,15 +10,14 @@
 	<h1>Cursos</h1>
 	<table>
 		<tr>
-			<th>Nombre del Curso - </th>
+			<th>Nombre del Curso -</th>
 			<th>Acción</th>
 		</tr>
 		<tr th:each="curso: ${listaCurso}">
 			<td th:text="${curso.nombrecurso}" />
-			<!-- <td><a th:href="@{eliminarCurso(idcurso=${curso.idcurso})}">
-					Eliminar </a> <a
-				th:href="@{modificarCurso(idcurso=${curso.idcurso})}">
-					Modificar </a></td> -->
+			<td><a th:href="@{eliminarCurso(idcurso=${curso.idcurso})}">
+					Eliminar </a> <a th:href="@{modificarCurso(idcurso=${curso.idcurso})}">
+					Modificar </a></td>
 		</tr>
 	</table>
 	<a th:href="@{/controladorCursos/insertarCurso}"> Insertar curso </a>

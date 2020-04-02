@@ -5,8 +5,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form th:object="${alumno}"
-		action="/controladorAlumno/modificado" method="POST">
+	<form th:object="${alumno}" action="/controladorAlumno/modificado"
+		method="POST">
 		<p>
 			Nombre: <input type="text" th:field="*{nombre}"
 				th:value="${alumno.nombre}" required />
