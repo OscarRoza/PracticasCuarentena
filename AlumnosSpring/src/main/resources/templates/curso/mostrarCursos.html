@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+	<h1>Cursos</h1>
+	<table>
+		<tr>
+			<th>Nombre del Curso - </th>
+			<th>Acción</th>
+		</tr>
+		<tr th:each="curso: ${listaCurso}">
+			<td th:text="${curso.nombrecurso}" />
+			<!-- <td><a th:href="@{eliminarCurso(idcurso=${curso.idcurso})}">
+					Eliminar </a> <a
+				th:href="@{modificarCurso(idcurso=${curso.idcurso})}">
+					Modificar </a></td> -->
+		</tr>
+	</table>
+	<a th:href="@{/controladorCursos/insertarCurso}"> Insertar curso </a>
+	<p>
+		<a th:href="@{/index}"> Volver </a>
+</body>
+</html>
