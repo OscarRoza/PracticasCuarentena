@@ -52,9 +52,16 @@ public class CursoController {
 
 	@RequestMapping("/eliminarCurso")
 	public String eliminarCurso(@RequestParam int idcurso, Model modelo) {
-		sc.deleteById(idcurso);
-		modelo.addAttribute("listaCurso", sc.findAll());
-		return "/curso/mostrarCursos";
+		try {
+			sc.deleteById(idcurso);
+			modelo.addAttribute("listaCurso", sc.findAll());
+			return "/curso/mostrarCursos";
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			 return "/error";
+
+		}
 	}
 
 }
