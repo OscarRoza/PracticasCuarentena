@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
 <body>
-	<h1 th:text="${empresa.denominacion}"></h1>
 	<table>
 		<tr>
-			<td>Impuestos:</td>
-			<td>Fechas:</td>
+			<th>Impuesto</th>
+			<th>Fecha</th>
 		</tr>
 		<tr th:each="impuestos: ${listaImpuestos}">
 			<td th:text="${impuestos.baseimponible}" />
 			<td th:text="${impuestos.fecha}" />
+			<td th:text="${impuestos.denominacion.denominacion}" />
 	</table>
-	<a href="/controladorEmpresas/listaEmpresas"> volver </a>
+
+	<a href="/index"> Volver </a>
 </body>
 </html>

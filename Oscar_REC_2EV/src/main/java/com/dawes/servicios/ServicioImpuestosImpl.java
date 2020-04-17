@@ -1,5 +1,6 @@
 package com.dawes.servicios;
 
+import java.sql.Date;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.Optional;
@@ -7,6 +8,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.dawes.modelo.EmpresaVO;
 import com.dawes.modelo.ImpuestosVO;
 import com.dawes.repositorio.ImpuestosRepository;
 
@@ -20,7 +22,15 @@ public class ServicioImpuestosImpl {
 		return IR.findByBaseimponible(baseimponible);
 	}
 
+	public List<ImpuestosVO> findByFechaBetween(Date fecha1, Date fecha2) {
+		return IR.findByFechaBetween(fecha1, fecha2);
+	}
 	
+	
+
+	public List<ImpuestosVO> findByDenominacion(EmpresaVO denominacion) {
+		return IR.findByDenominacion(denominacion);
+	}
 
 	public <S extends ImpuestosVO> S save(S entity) {
 		return IR.save(entity);
@@ -65,6 +75,5 @@ public class ServicioImpuestosImpl {
 	public void deleteAll() {
 		IR.deleteAll();
 	}
-	
-	
+
 }

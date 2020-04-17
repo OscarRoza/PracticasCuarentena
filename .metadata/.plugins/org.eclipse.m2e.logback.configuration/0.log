@@ -4055,3 +4055,533 @@
 2020-04-17 21:58:12,001 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-04-17 21:58:12,008 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-17 21:58:12,008 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:09:26,353 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:09:26,360 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:09:26,388 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:09:26,394 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:09:26,394 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:09:41,222 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:09:41,229 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:09:41,244 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:09:41,250 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:09:41,251 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:13:51,020 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:13:51,021 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 22:13:51,022 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:13:51,106 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:13:51,107 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:14:12,266 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:14:12,266 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 22:14:12,266 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:14:12,273 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:14:12,273 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:14:29,002 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:14:29,002 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 22:14:29,003 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:14:29,014 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:14:29,014 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:15:03,854 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:15:03,855 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 22:15:03,855 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:15:03,863 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:15:03,863 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:15:10,136 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:15:10,136 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 22:15:10,137 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:15:10,142 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:15:10,142 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:15:34,352 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:15:34,352 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 22:15:34,353 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:15:34,361 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:15:34,361 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:16:15,235 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:16:15,235 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 22:16:15,236 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:16:15,251 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:16:15,252 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:29:04,271 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:29:04,277 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:29:04,474 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:29:04,480 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:29:04,481 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:29:26,110 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:29:26,115 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:29:26,122 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:29:26,127 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:29:26,127 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:29:32,414 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:29:32,420 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:29:32,427 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:29:32,432 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:29:32,432 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:30:06,995 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:07,000 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:30:07,007 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:30:07,013 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:07,013 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:30:27,946 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:27,953 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:30:27,982 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:30:27,987 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:27,987 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:30:41,614 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:41,619 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:30:41,626 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:30:41,631 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:41,631 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:30:43,717 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:43,722 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:30:43,735 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:30:43,739 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:43,740 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:30:54,429 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:54,434 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:30:54,442 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:30:54,447 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:30:54,447 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:31:02,083 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:31:02,089 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:31:02,125 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:31:02,130 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:31:02,131 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:31:07,460 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:31:07,465 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:31:07,488 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:31:07,507 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:31:07,507 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:31:27,536 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:31:27,541 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:31:27,547 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:31:27,552 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:31:27,552 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:32:55,338 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:32:55,343 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:32:55,350 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:32:55,355 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:32:55,355 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:33:19,825 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:33:19,831 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:33:19,862 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:33:19,868 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:33:19,868 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:34:19,430 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:34:19,437 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:34:19,445 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:34:19,451 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:34:19,451 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:34:28,347 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:34:28,353 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:34:28,359 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:34:28,364 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:34:28,365 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:34:39,378 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:34:39,384 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:34:39,391 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:34:39,396 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:34:39,396 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:34:42,740 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:34:42,745 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:34:42,752 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:34:42,758 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:34:42,758 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 22:37:45,069 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:37:45,075 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 22:37:45,084 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 22:37:45,089 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 22:37:45,089 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:06:19,756 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:06:19,763 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:06:19,799 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 23:06:19,804 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:06:19,804 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:17:52,142 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:17:52,148 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:17:52,173 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 23:17:52,179 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:17:52,179 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:17:53,344 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:17:53,350 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:17:53,356 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 23:17:53,361 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:17:53,361 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:18:11,064 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:18:11,070 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:18:11,096 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 23:18:11,101 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:18:11,101 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:18:36,712 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:18:36,718 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:18:36,724 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 23:18:36,730 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:18:36,730 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:18:43,527 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:18:43,532 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:18:43,543 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-04-17 23:18:43,549 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:18:43,549 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:20:05,598 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:20:05,598 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:20:05,599 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:20:05,605 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:20:05,606 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:20:47,741 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:20:47,742 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:20:47,743 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:20:47,778 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:20:47,778 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:20:59,204 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:20:59,205 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:20:59,205 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:20:59,211 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:20:59,212 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:21:45,327 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:21:45,327 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:21:45,327 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:21:45,333 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:21:45,333 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:21:46,347 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:21:46,348 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:21:46,348 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:21:46,355 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:21:46,355 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:22:27,982 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:22:27,982 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:22:27,983 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:22:27,989 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:22:27,989 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:22:36,935 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:22:36,936 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:22:36,936 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:22:36,946 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:22:36,947 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:23:21,518 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:23:21,518 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:23:21,518 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:23:21,526 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:23:21,527 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:24:34,065 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:24:34,065 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:24:34,066 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:24:34,074 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:24:34,074 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:25:12,513 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:25:12,513 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:25:12,514 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:25:12,521 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:25:12,522 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:26:08,922 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:26:08,922 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:26:08,923 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:26:08,929 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:26:08,930 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:26:44,335 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:26:44,340 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:26:44,349 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:26:44,354 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:26:44,354 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:31:28,665 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:31:28,671 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:31:28,682 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:31:28,688 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:31:28,688 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:31:29,905 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:31:29,911 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:31:29,946 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:31:29,951 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:31:29,951 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:31:38,234 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:31:38,240 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:31:38,250 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:31:38,255 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:31:38,256 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:32:37,563 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:32:37,569 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:32:37,577 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:32:37,582 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:32:37,582 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:33:06,490 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:06,496 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:33:06,503 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:33:06,508 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:06,508 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:33:17,982 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:17,988 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:33:18,000 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:33:18,005 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:18,005 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:33:26,870 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:26,875 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:33:26,882 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:33:26,887 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:26,887 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:33:28,981 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:28,988 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:33:29,005 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:33:29,012 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:29,012 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:33:38,771 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:38,771 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:33:38,772 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:33:38,779 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:33:38,779 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:34:46,157 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:34:46,158 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:34:46,159 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:34:46,165 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:34:46,165 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:36:58,261 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:36:58,267 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:36:58,274 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:36:58,279 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:36:58,280 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:36:59,404 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:36:59,410 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:36:59,423 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:36:59,428 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:36:59,429 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:37:42,119 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:37:42,124 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:37:42,131 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:37:42,150 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:37:42,151 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:37:58,856 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:37:58,862 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:37:58,875 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:37:58,880 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:37:58,881 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:38:01,063 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:38:01,069 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:38:01,077 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:38:01,083 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:38:01,083 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:38:06,008 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:38:06,014 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:38:06,024 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:38:06,030 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:38:06,030 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:38:30,024 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:38:30,030 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:38:30,038 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:38:30,043 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:38:30,044 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:39:35,349 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:39:35,355 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:39:35,362 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:39:35,367 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:39:35,367 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:39:50,733 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:39:50,734 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:39:50,734 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:39:50,761 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:39:50,761 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:39:53,365 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:39:53,371 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:39:53,386 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:39:53,391 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:39:53,392 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:41:10,263 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:41:10,268 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:41:10,275 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:41:10,280 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:41:10,280 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:42:43,295 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:42:43,301 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:42:43,308 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:42:43,314 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:42:43,314 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:44:32,815 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:44:32,821 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:44:32,828 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:44:32,833 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:44:32,833 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:46:24,621 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:46:24,627 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:46:24,634 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:46:24,639 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:46:24,639 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:47:44,254 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:47:44,255 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:47:44,255 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:47:44,263 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:47:44,263 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:47:51,956 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:47:51,962 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:47:51,968 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:47:51,973 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:47:51,974 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:49:20,599 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:49:20,605 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:49:20,612 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:49:20,617 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:49:20,617 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:49:53,911 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:49:53,919 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:49:53,939 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:49:53,945 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:49:53,945 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:50:32,306 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:50:32,311 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:50:32,319 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:50:32,324 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:50:32,324 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:51:13,361 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:51:13,367 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:51:13,374 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:51:13,379 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:51:13,379 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:51:14,432 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:51:14,437 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:51:14,444 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:51:14,449 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:51:14,449 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:51:37,470 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:51:37,475 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:51:37,482 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:51:37,487 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:51:37,487 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:52:09,094 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:52:09,100 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:52:09,107 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:52:09,112 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:52:09,112 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:58:03,569 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:58:03,575 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:58:03,583 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-17 23:58:03,588 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:58:03,589 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:59:01,371 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:59:01,371 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:59:01,371 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:59:01,379 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:59:01,379 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:59:23,059 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:59:23,060 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:59:23,060 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:59:23,072 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:59:23,072 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:59:41,048 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:59:41,048 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:59:41,048 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:59:41,056 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:59:41,056 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-17 23:59:43,047 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:59:43,048 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-17 23:59:43,048 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-17 23:59:43,055 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-17 23:59:43,055 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:00:07,230 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:00:07,231 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:00:07,231 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:00:07,238 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:00:07,239 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:00:08,312 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:00:08,312 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:00:08,312 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:00:08,319 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:00:08,319 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:00:33,486 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:00:33,486 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:00:33,487 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:00:33,499 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:00:33,500 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:00:56,320 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:00:56,320 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:00:56,320 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:00:56,327 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:00:56,327 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:02:11,332 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:02:11,337 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:02:11,344 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:02:11,349 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:02:11,350 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:02:14,250 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:02:14,256 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:02:14,265 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:02:14,270 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:02:14,270 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:02:35,532 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:02:35,538 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:02:35,544 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:02:35,550 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:02:35,550 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:04:07,332 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:04:07,333 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:04:07,333 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:04:07,339 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:04:07,340 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:04:43,352 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:04:43,352 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:04:43,353 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:04:43,359 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:04:43,359 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:04:44,388 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:04:44,388 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:04:44,389 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:04:44,394 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:04:44,394 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:06:13,078 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:06:13,083 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:06:13,090 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:06:13,095 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:06:13,096 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:07:02,450 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:07:02,456 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:07:02,465 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:07:02,470 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:07:02,470 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:07:19,477 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:07:19,482 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:07:19,489 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:07:19,494 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:07:19,494 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:08:19,384 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:08:19,390 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:08:19,397 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:08:19,403 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:08:19,403 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:08:45,972 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:08:45,980 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:08:45,996 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:08:46,001 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:08:46,002 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:09:05,351 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:05,357 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:09:05,372 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:09:05,378 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:05,378 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:09:19,786 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:19,791 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:09:19,798 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:09:19,803 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:19,804 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:09:35,034 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:35,040 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:09:35,053 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:09:35,060 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:35,060 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:09:44,623 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:44,629 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:09:44,643 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:09:44,648 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:44,648 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:09:48,241 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:48,247 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:09:48,253 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-04-18 00:09:48,258 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:09:48,258 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:10:47,853 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:10:47,853 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:10:47,854 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:10:47,860 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:10:47,860 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:11:03,936 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:11:03,937 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:11:03,937 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:11:03,943 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:11:03,944 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources
+2020-04-18 00:11:21,499 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:11:21,499 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-18 00:11:21,500 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-18 00:11:21,506 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-18 00:11:21,506 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\D_sjnn3r\OneDrive - Consejería de Educación y Cultura\charo\CUARENTENA\Oscar_REC_2EV\src\test\resources

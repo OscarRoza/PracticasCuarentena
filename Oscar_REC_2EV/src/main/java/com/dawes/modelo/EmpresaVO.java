@@ -19,7 +19,7 @@ public class EmpresaVO {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int idempresa;
 	private String denominacion;
-	@OneToMany(mappedBy = "denominacion", fetch = FetchType.EAGER, cascade = { CascadeType.ALL }, orphanRemoval = true)
+	@OneToMany(mappedBy = "denominacion", fetch = FetchType.EAGER, orphanRemoval = true)
 	private List<ImpuestosVO> listaimpuestos;
 
 	public EmpresaVO(int idempresa, String denominacion, List<ImpuestosVO> listaimpuestos) {

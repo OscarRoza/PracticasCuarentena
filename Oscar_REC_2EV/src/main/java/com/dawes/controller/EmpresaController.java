@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.dawes.modelo.EmpresaVO;
 import com.dawes.servicios.ServicioEmpresaImpl;
+import com.dawes.servicios.ServicioImpuestosImpl;
 
 @Controller
 @RequestMapping("/controladorEmpresas")
@@ -16,6 +17,8 @@ public class EmpresaController {
 
 	@Autowired
 	ServicioEmpresaImpl se;
+	@Autowired
+	ServicioImpuestosImpl si;
 
 	@RequestMapping("/listaEmpresas")
 	public String listaEmpresas(Model modelo) {
@@ -38,8 +41,9 @@ public class EmpresaController {
 	}
 	
 	@RequestMapping("/mostrarImpuestosEmpresa")
-	public String mostrarImpuestosEmpresa(@RequestParam int idempresa, Model modelo) {
+	public String mostrarImpuestosEmpresa(@RequestParam("idempresa") int idempresa, Model modelo) {
 		modelo.addAttribute("empresa",se.findById(idempresa).get());
+		modelo.addAttribute("listaImpuestos", si.findByDenominacion(se.findById(idempresa).get()));
 		return "empresas/mostrarImpuestosEmpresa";
 	}
 

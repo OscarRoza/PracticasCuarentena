@@ -5,9 +5,21 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a th:href="@{/controladorImpuestos/insertarImpuesto}"> Insertar
-		Impuesto </a>
-	<p>
-		<a th:href="@{/index}"> Volver </a>
+
+<h1>Elige dos fechas para filtrar los impuestos</h1>
+<form action="/controladorImpuestos/findByFecha"
+		method="POST">
+		<p>
+			fecha 1: <input type="date" th:field="*{fecha1}"  />
+		</p>
+		<p>
+			fecha 2: <input type="date" th:field="*{fecha2}"
+				required />
+		</p>
+		
+		<p>
+			<input type="submit" value="Insertar" />
+		</p>
+	</form>
 </body>
 </html>
