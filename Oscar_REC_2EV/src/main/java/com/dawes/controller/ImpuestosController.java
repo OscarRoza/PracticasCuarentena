@@ -5,13 +5,14 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import com.dawes.modelo.ImpuestosVO;
 import com.dawes.servicios.ServicioImpuestosImpl;
 
 @Controller
 @RequestMapping("/controladorImpuestos")
-public class ImpuestosCrontroller {
+public class ImpuestosController {
 
 	@Autowired
 	ServicioImpuestosImpl si;
@@ -34,5 +35,19 @@ public class ImpuestosCrontroller {
 		modelo.addAttribute("listaImpuestos", si.findAll());
 		return "/impuestos/listaImpuestos";
 
+	}
+
+	@RequestMapping("/eliminarImpuesto")
+	public String eliminarImpuesto(@RequestParam int idimpuestos, Model modelo) {
+		try {
+			si.deleteById(idimpuestos);
+			modelo.addAttribute("listaImpuestos", si.findAll());
+			return "/impuestos/listaImpuestos";
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			return "/error";
+
+		}
 	}
 }
