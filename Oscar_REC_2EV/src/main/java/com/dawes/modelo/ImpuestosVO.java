@@ -1,6 +1,6 @@
 package com.dawes.modelo;
 
-import java.sql.Date;
+
 import java.time.LocalDate;
 import java.util.List;
 
@@ -14,6 +14,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 import org.hibernate.annotations.GeneratorType;
+import org.springframework.format.annotation.DateTimeFormat;
 
 @Entity
 @Table(name = "impuestos")
@@ -23,12 +24,13 @@ public class ImpuestosVO {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int idimpuestos;
 	private int baseimponible;
-	private Date fecha;
+	@DateTimeFormat(pattern = "yyyy-MM-dd")
+	private LocalDate fecha;
 	@ManyToOne
 	@JoinColumn(name = "idempresa")
 	private EmpresaVO denominacion;
 
-	public ImpuestosVO(int idimpuestos, int baseimponible, Date fecha, EmpresaVO denominacion) {
+	public ImpuestosVO(int idimpuestos, int baseimponible, LocalDate fecha, EmpresaVO denominacion) {
 		super();
 		this.idimpuestos = idimpuestos;
 		this.baseimponible = baseimponible;
@@ -36,7 +38,7 @@ public class ImpuestosVO {
 		this.denominacion = denominacion;
 	}
 
-	public ImpuestosVO(int baseimponible, Date fecha, EmpresaVO denominacion) {
+	public ImpuestosVO(int baseimponible, LocalDate fecha, EmpresaVO denominacion) {
 		super();
 		this.baseimponible = baseimponible;
 		this.fecha = fecha;
@@ -63,11 +65,11 @@ public class ImpuestosVO {
 		this.baseimponible = baseimponible;
 	}
 
-	public Date getFecha() {
+	public LocalDate getFecha() {
 		return fecha;
 	}
 
-	public void setFecha(Date fecha) {
+	public void setFecha(LocalDate fecha) {
 		this.fecha = fecha;
 	}
 

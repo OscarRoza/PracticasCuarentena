@@ -4,6 +4,9 @@ import java.sql.Date;
 import java.time.LocalDate;
 import java.util.List;
 
+import javax.transaction.Transactional;
+
+import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
@@ -15,7 +18,9 @@ public interface ImpuestosRepository extends CrudRepository<ImpuestosVO, Integer
 
 	ImpuestosVO findByBaseimponible(int baseimponible);
 
-	public List<ImpuestosVO> findByFechaBetween(Date fecha1, Date fecha2);
+	@Transactional
+	@Modifying
+	public List<ImpuestosVO> findByFechaBetween(LocalDate fechaInicio, LocalDate fechaFin);
 
 	public List<ImpuestosVO> findByDenominacion(EmpresaVO denominacion);
 }

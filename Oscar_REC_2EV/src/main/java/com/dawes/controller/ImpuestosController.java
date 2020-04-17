@@ -1,6 +1,7 @@
 package com.dawes.controller;
 
 import java.sql.Date;
+import java.time.LocalDate;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -41,18 +42,19 @@ public class ImpuestosController {
 	}
 
 	@RequestMapping("/formFechas")
-	public String formFechas(Model modelo, Date fecha1, Date fecha2) {
+	public String formFechas(Model modelo, LocalDate fecha1, LocalDate fecha2) {
 		modelo.addAttribute("fecha1", fecha1);
 		modelo.addAttribute("fecha2", fecha2);
 		return "/impuestos/formFechas";
 	}
 
 	@RequestMapping("/findByFecha")
-	public String findByFecha(@RequestParam Date fecha1, Date fecha2, Model modelo) {
-		si.findByFechaBetween(fecha1, fecha2);
+	public String findByFecha(@RequestParam String fecha1, @RequestParam String fecha2, Model modelo) {
+		LocalDate fechaInicial = LocalDate.parse(fecha1);
+		LocalDate fechaFinal = LocalDate.parse(fecha2);
+		si.findByFechaBetween(fechaInicial, fechaFinal);
 		modelo.addAttribute("listaImpuestos", si.findAll());
 		return "/impuestos/filtradoPorFechas";
-
 	}
 
 	@RequestMapping("/eliminarImpuesto")

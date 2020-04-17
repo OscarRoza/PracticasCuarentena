@@ -22,11 +22,13 @@ public class ServicioImpuestosImpl {
 		return IR.findByBaseimponible(baseimponible);
 	}
 
-	public List<ImpuestosVO> findByFechaBetween(Date fecha1, Date fecha2) {
-		return IR.findByFechaBetween(fecha1, fecha2);
+
+
+	public List<ImpuestosVO> findByFechaBetween(LocalDate fechaInicio, LocalDate fechaFin) {
+		return IR.findByFechaBetween(fechaInicio, fechaFin);
 	}
-	
-	
+
+
 
 	public List<ImpuestosVO> findByDenominacion(EmpresaVO denominacion) {
 		return IR.findByDenominacion(denominacion);
