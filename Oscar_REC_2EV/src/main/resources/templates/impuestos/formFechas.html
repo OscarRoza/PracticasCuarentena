@@ -6,17 +6,16 @@
 </head>
 <body>
 
-<h1>Elige dos fechas para filtrar los impuestos</h1>
-<form action="/controladorImpuestos/findByFecha"
+	<h1>Elige dos fechas para filtrar los impuestos</h1>
+	<form th:object="${fecha}" action="/controladorImpuestos/findByFecha"
 		method="POST">
 		<p>
-			fecha 1: <input type="date" th:field="*{fecha1}"  />
+			fecha 1: <input type="date" th:field="*{fecha}" />
 		</p>
 		<p>
-			fecha 2: <input type="date" th:field="*{fecha2}"
-				required />
+			fecha 2: <input type="date" th:field="*{fecha}" required />
 		</p>
-		
+
 		<p>
 			<input type="submit" value="Insertar" />
 		</p>

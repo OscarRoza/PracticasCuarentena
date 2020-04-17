@@ -41,7 +41,9 @@ public class ImpuestosController {
 	}
 
 	@RequestMapping("/formFechas")
-	public String formFechas() {
+	public String formFechas(Model modelo, Date fecha1, Date fecha2) {
+		modelo.addAttribute("fecha1", fecha1);
+		modelo.addAttribute("fecha2", fecha2);
 		return "/impuestos/formFechas";
 	}
 
