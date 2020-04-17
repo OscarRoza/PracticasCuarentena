@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form th:object="${empresas}"
+		action="/controladorEmpresas/inserccionEmpresa" method="POST">
+		<p>
+			Nombre de la Empresa: <input type="text" th:field="*{denominacion}"
+				required />
+		</p>
+
+		<p>
+			<input type="submit" value="Insertar" />
+		</p>
+	</form>
+</body>
+</html>
