@@ -36,6 +36,12 @@ public class EmpresaController {
 		return "/empresas/listaEmpresas";
 
 	}
+	
+	@RequestMapping("/mostrarImpuestosEmpresa")
+	public String mostrarImpuestosEmpresa(@RequestParam int idempresa, Model modelo) {
+		modelo.addAttribute("empresa",se.findById(idempresa).get());
+		return "empresas/mostrarImpuestosEmpresa";
+	}
 
 	@RequestMapping("/eliminarEmpresa")
 	public String eliminarEmpresa(@RequestParam int idempresa, Model modelo) {

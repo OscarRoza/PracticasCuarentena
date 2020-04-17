@@ -13,9 +13,12 @@
 		</tr>
 		<tr th:each="empresa: ${listaEmpresas}">
 			<td th:text="${empresa.denominacion}" />
+				<td><a
+				th:href="@{mostrarImpuestosEmpresa(idempresa=${empresa.idempresa})}">
+					Ver impuestos </a></td>
 			<td><a
 				th:href="@{eliminarEmpresa(idempresa=${empresa.idempresa})}">
-					Eliminar </a>
+					Eliminar </a></td>
 	</table>
 	<a th:href="@{/controladorEmpresas/insertarEmpresa}"> Insertar
 		Empresa </a>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>empresa</td>
+			<td>impuesto</td>
+		</tr>
+		<tr th:each="empresa: ${listaEmpresas}">
+			<td th:text="${empresa.denominacion}"></td>
+			<td th:text="${empresa.listaimpuestos}"></td>
+	</table>
+		<a href="/controladorEmpresas/listaEmpresas"> volver </a>
+</body>
+</html>
