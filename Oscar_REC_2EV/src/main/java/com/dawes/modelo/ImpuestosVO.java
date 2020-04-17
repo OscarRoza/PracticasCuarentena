@@ -23,12 +23,12 @@ public class ImpuestosVO {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int idimpuestos;
 	private int baseimponible;
-	private LocalDate fecha;
+	private Date fecha;
 	@ManyToOne
 	@JoinColumn(name = "idempresa")
 	private EmpresaVO denominacion;
 
-	public ImpuestosVO(int idimpuestos, int baseimponible, LocalDate fecha, EmpresaVO denominacion) {
+	public ImpuestosVO(int idimpuestos, int baseimponible, Date fecha, EmpresaVO denominacion) {
 		super();
 		this.idimpuestos = idimpuestos;
 		this.baseimponible = baseimponible;
@@ -36,7 +36,7 @@ public class ImpuestosVO {
 		this.denominacion = denominacion;
 	}
 
-	public ImpuestosVO(int baseimponible, LocalDate fecha, EmpresaVO denominacion) {
+	public ImpuestosVO(int baseimponible, Date fecha, EmpresaVO denominacion) {
 		super();
 		this.baseimponible = baseimponible;
 		this.fecha = fecha;
@@ -63,11 +63,11 @@ public class ImpuestosVO {
 		this.baseimponible = baseimponible;
 	}
 
-	public LocalDate getFecha() {
+	public Date getFecha() {
 		return fecha;
 	}
 
-	public void setFecha(LocalDate fecha) {
+	public void setFecha(Date fecha) {
 		this.fecha = fecha;
 	}
 

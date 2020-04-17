@@ -29,9 +29,9 @@ public class ImpuestosCrontroller {
 	}
 
 	@RequestMapping("/inserccionImpuesto")
-	public String inserccionAlumno(@ModelAttribute ImpuestosVO impuestos, Model modelo) {
+	public String inserccionImpuesto(@ModelAttribute ImpuestosVO impuestos, Model modelo) {
 		si.save(impuestos);
-		modelo.addAttribute("listaAlumno", si.findAll());
+		modelo.addAttribute("listaImpuestos", si.findAll());
 		return "/impuestos/listaImpuestos";
 
 	}
