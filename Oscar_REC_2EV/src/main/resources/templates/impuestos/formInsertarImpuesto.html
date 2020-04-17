@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form th:object="${impuestos}" action="/controladorImpuestos/insertarImpuesto"
+		method="POST">
+		<p>
+			ID Empresa: <input type="text" th:field="*{denominacion}" required />
+		</p>
+		<p>
+			Base Imponible: <input type="text" th:field="*{baseimponible}"
+				required />
+		</p>
+		<p>
+			Fecha: <input type="date" th:field="*{fecha}" required />
+		</p>
+		<p>
+			<input type="submit" value="Insertar" />
+		</p>
+	</form>
+</body>
+</html>
