@@ -53,7 +53,8 @@ public class ImpuestosController {
 		LocalDate fechaInicial = LocalDate.parse(fecha1);
 		LocalDate fechaFinal = LocalDate.parse(fecha2);
 		si.findByFechaBetween(fechaInicial, fechaFinal);
-		modelo.addAttribute("listaImpuestos", si.findAll());
+		modelo.addAttribute("listaImpuestos", si.findByFechaBetween(fechaInicial, fechaFinal));
+
 		return "/impuestos/filtradoPorFechas";
 	}
 
