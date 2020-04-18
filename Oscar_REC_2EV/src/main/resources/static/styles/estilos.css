@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: rgb(202, 197, 197);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin-left: 50px;
+}
+
+table {
+	border: solid 1px green;
+	padding: 4px;
+	margin: 15px;
+}
+
+tr {
+	margin: 10px;
+}
+
+th {
+	text-align: center; border : solid 1px green;
+	padding: 8px;
+	background-color: orange;
+	border: solid 1px green;
+}
+
+td {
+	text-align: center;
+	border: solid 1px green;
+	padding: 8px;
+	background-color: aqua;
+}
+
+td:hover {
+	background-color: greenyellow;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+a:link {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: black;
+}
+
+a:visited {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: black;
+}
+
+a:hover {
+	color: blue;
+	cursor: pointer;
+}

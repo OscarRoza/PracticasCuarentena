@@ -1,20 +1,25 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
+
 <head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+<link rel="stylesheet" type="text/css" th:href="@{../styles/estilos.css}">
+
 </head>
+
 <body>
-	<h1 th:text="${empresa.denominacion}"></h1>
-	<table>
-		<tr>
-			<td>Impuestos:</td>
-			<td>Fechas:</td>
-		</tr>
-		<tr th:each="impuestos: ${listaImpuestos}">
-			<td th:text="${impuestos.baseimponible}" />
-			<td th:text="${impuestos.fecha}" />
-	</table>
-	<a href="/controladorEmpresas/listaEmpresas"> volver </a>
+    <h1 th:text="${empresa.denominacion}"></h1>
+    <table>
+        <tr>
+            <td>Impuestos:</td>
+            <td>Fechas:</td>
+        </tr>
+        <tr th:each="impuestos: ${listaImpuestos}">
+            <td th:text="${impuestos.baseimponible}" />
+            <td th:text="${impuestos.fecha}" />
+    </table>
+    <a href="/controladorEmpresas/listaEmpresas"> volver </a>
 </body>
+
 </html>

@@ -1,25 +1,28 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
+
 <head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+    <meta charset="ISO-8859-1">
+    <title>Insert title here</title>
+<link rel="stylesheet" type="text/css" th:href="@{../styles/estilos.css}">
 </head>
+
 <body>
-	<h1>IMPUESTOS</h1>
-	<table>
-		<tr>
-			<th>Nombre</th>
-			<th>Acción</th>
-		</tr>
-		<tr th:each="impuestos: ${listaImpuestos}">
-			<td th:text="${impuestos.baseimponible}" />
-			<td><a
-				th:href="@{eliminarImpuesto(idimpuestos=${impuestos.idimpuestos})}">
+    <h1>IMPUESTOS</h1>
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Accion</th>
+        </tr>
+        <tr th:each="impuestos: ${listaImpuestos}">
+            <td th:text="${impuestos.baseimponible}" />
+            <td><a th:href="@{eliminarImpuesto(idimpuestos=${impuestos.idimpuestos})}">
 					Eliminar </a>
-	</table>
-	<a th:href="@{/controladorImpuestos/insertarImpuesto}"> Insertar
+    </table>
+    <a th:href="@{/controladorImpuestos/insertarImpuesto}"> Insertar
 		Impuesto </a>
-	<p>
-		<a href="/index"> Volver </a>
+    <p>
+        <a href="/index"> Volver </a>
 </body>
+
 </html>
